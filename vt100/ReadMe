@@ -1,0 +1,4 @@
+Oberon
+Oberon is a programming language, an operating system and a graphical user interface. Originally designed and implemented by by Niklaus Wirth and Jürg Gutknecht at ETH Zürich in the late 1980s, it demonstrates that the fundamentals of a modern OS and GUI can be implemented in clean and simple code orders of magnitude smaller than found in contemporary systems.
+
+The Oberon programming language is an evolution of the Pascal and Modula languages. While it adds garbage collection, extensible types and (in Oberon-2) type-bound procedures, it is also simplified following the principals of Einstein and Antoine de Saint-Exupéry:
